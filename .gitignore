@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.swp
+logs/
+
+## Environment
+appsettings.Production.json
+.env
+
+## Docker
+.dockerignore
+
+## Test results
+TestResults/
+coverage/
