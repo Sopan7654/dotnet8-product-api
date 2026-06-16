@@ -150,4 +150,4 @@ docker build -t productapi .
 docker run -p 8080:8080 productapi
 ```
 
-Health Check Endpoint: `http://localhost:8080/health`
+Health Check Endpoint: `http://localhost:5000/health`
